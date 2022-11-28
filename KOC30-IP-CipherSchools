@@ -32,5 +32,39 @@
         5<sup>3</sup>=125
     </p>
 
+    <p>_________________________________________________________________________________</p>
+
+    Food
+    Car
+    Door
+    Buildings
+
+    <h2>UNORDERD List</h2>
+    
+    <ul>
+        <li>Food</li>
+        <li>Car</li>
+        <li>Door</li>
+        <li>Building</li>
+    </ul>
+
+
+    <h2>ORDERD List</h2>
+
+    <ol>
+        <li>Food</li>
+        <li>Car</li>
+        <li>Door</li>
+        <li>Building</li>
+    </ol>
+
+    <h2>DEFINITION List</h2>
+
+    <dl>
+        <dt>Definition Term</dt>
+        <dd>Definition Description</dd>
+        
+    </dl>
+
 </body>
 </html>
