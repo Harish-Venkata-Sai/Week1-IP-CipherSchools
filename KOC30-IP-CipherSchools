@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang = "em">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport icon" content="width-device-width, initial-scale=1.0">
+    <link ref="shortcut icon" href="assets/favicon.png" type="image/x-icon">
+    <title>Paragraph, Headlines, Small texts, Subscripts & Superscripts</title>
+
+</head>
+<body>
+    <p><em>Hello Everyone</em></p>
+    <h1>Welcome to this bootcamp!</h1>
+    <h2>Welcome to this bootcamp!</h2>
+    <h3><strong>Welcome to this bootcamp!</strong></h3>
+    <h4>Welcome to this bootcamp!</h4>
+    <h5>Welcome to this bootcamp!</h5>
+    <h6>Welcome to this bootcamp!</h6>
+
+    <small>All rights reserved</small>
+
+    <!--Subscripts-->
+
+    <p>
+        H<sub>2</sub>O
+    </p>
+
+    <!--Superscripts-->
+    <p>
+        H<sup>2</sup>O
+        <br>
+        5<sup>3</sup>=125
+    </p>
+
+</body>
+</html>
